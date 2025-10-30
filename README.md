@@ -48,10 +48,10 @@ Após o término do teste, o ASG reduz a capacidade (**scale-in**) até o valor 
 
 | Etapa | Descrição | Print |
 |-------|------------|-------|
-| 1️⃣ | **Application Load Balancer ativo em múltiplas AZs** | ![ALB](./images/ec2.png) |
-| 2️⃣ | **Instâncias EC2 ativas após o Auto Scaling** | ![Instances](./images/instances.png) |
-| 3️⃣ | **Aplicação de Teste – Load Test App** | ![Stress Test](./images/stress.png) |
-| 4️⃣ | **Instâncias reduzidas após scale-in** | ![After Load](./images/load.png) |
+| 1️⃣ | **Application Load Balancer ativo em múltiplas AZs** | ![ALB](./images/ec2.jpeg) |
+| 2️⃣ | **Instâncias EC2 ativas após o Auto Scaling** | ![Instances](./images/instances.jpeg)|
+| 3️⃣ | **Aplicação de Teste – Load Test App** | ![Stress Test](./images/stress.jpeg) |
+| 4️⃣ | **Instâncias reduzidas após scale-in** | ![After Load](./images/load.jpeg) |
 
 ---
 
